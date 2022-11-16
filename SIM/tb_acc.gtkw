@@ -1,0 +1,92 @@
+[*]
+[*] GTKWave Analyzer v3.3.68 (w)1999-2016 BSI
+[*] Thu Sep 30 13:33:32 2021
+[*]
+[dumpfile] "C:\MyDesigns\Perso\select\SIM\tb_accumulator.ghw"
+[dumpfile_mtime] "Thu Sep 30 13:31:56 2021"
+[dumpfile_size] 34526
+[savefile] "C:\MyDesigns\Perso\select\SIM\tb_acc.gtkw"
+[timestart] 3271100000
+[size] 1433 871
+[pos] -1 -1
+*-25.509893 3489600000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_accumulator.
+[treeopen] top.tb_accumulator.i_accumulator_0.
+[treeopen] top.tb_accumulator.i_accumulator_0.i_selector_0.
+[sst_width] 271
+[signals_width] 198
+[sst_expanded] 1
+[sst_vpaned_height] 566
+@28
+top.tb_accumulator.mclk
+top.tb_accumulator.nrst
+top.tb_accumulator.srst
+@22
+#{top.tb_accumulator.din[15:0]} top.tb_accumulator.din[15] top.tb_accumulator.din[14] top.tb_accumulator.din[13] top.tb_accumulator.din[12] top.tb_accumulator.din[11] top.tb_accumulator.din[10] top.tb_accumulator.din[9] top.tb_accumulator.din[8] top.tb_accumulator.din[7] top.tb_accumulator.din[6] top.tb_accumulator.din[5] top.tb_accumulator.din[4] top.tb_accumulator.din[3] top.tb_accumulator.din[2] top.tb_accumulator.din[1] top.tb_accumulator.din[0]
+@800028
+#{top.tb_accumulator.info[1:0]} top.tb_accumulator.info[1] top.tb_accumulator.info[0]
+@28
+top.tb_accumulator.info[1]
+top.tb_accumulator.info[0]
+@1001200
+-group_end
+@22
+#{top.tb_accumulator.dout[15:0]} top.tb_accumulator.dout[15] top.tb_accumulator.dout[14] top.tb_accumulator.dout[13] top.tb_accumulator.dout[12] top.tb_accumulator.dout[11] top.tb_accumulator.dout[10] top.tb_accumulator.dout[9] top.tb_accumulator.dout[8] top.tb_accumulator.dout[7] top.tb_accumulator.dout[6] top.tb_accumulator.dout[5] top.tb_accumulator.dout[4] top.tb_accumulator.dout[3] top.tb_accumulator.dout[2] top.tb_accumulator.dout[1] top.tb_accumulator.dout[0]
+@200
+-
+@800028
+#{top.tb_accumulator.i_accumulator_0.i_selector_0.data_info[1:0]} top.tb_accumulator.i_accumulator_0.i_selector_0.data_info[1] top.tb_accumulator.i_accumulator_0.i_selector_0.data_info[0]
+@28
+top.tb_accumulator.i_accumulator_0.i_selector_0.data_info[1]
+top.tb_accumulator.i_accumulator_0.i_selector_0.data_info[0]
+@1001200
+-group_end
+@22
+#{top.tb_accumulator.i_accumulator_0.i_selector_0.data_in[15:0]} top.tb_accumulator.i_accumulator_0.i_selector_0.data_in[15] top.tb_accumulator.i_accumulator_0.i_selector_0.data_in[14] top.tb_accumulator.i_accumulator_0.i_selector_0.data_in[13] top.tb_accumulator.i_accumulator_0.i_selector_0.data_in[12] top.tb_accumulator.i_accumulator_0.i_selector_0.data_in[11] top.tb_accumulator.i_accumulator_0.i_selector_0.data_in[10] top.tb_accumulator.i_accumulator_0.i_selector_0.data_in[9] top.tb_accumulator.i_accumulator_0.i_selector_0.data_in[8] top.tb_accumulator.i_accumulator_0.i_selector_0.data_in[7] top.tb_accumulator.i_accumulator_0.i_selector_0.data_in[6] top.tb_accumulator.i_accumulator_0.i_selector_0.data_in[5] top.tb_accumulator.i_accumulator_0.i_selector_0.data_in[4] top.tb_accumulator.i_accumulator_0.i_selector_0.data_in[3] top.tb_accumulator.i_accumulator_0.i_selector_0.data_in[2] top.tb_accumulator.i_accumulator_0.i_selector_0.data_in[1] top.tb_accumulator.i_accumulator_0.i_selector_0.data_in[0]
+#{top.tb_accumulator.i_accumulator_0.i_selector_0.fifo_out[15:0]} top.tb_accumulator.i_accumulator_0.i_selector_0.fifo_out[15] top.tb_accumulator.i_accumulator_0.i_selector_0.fifo_out[14] top.tb_accumulator.i_accumulator_0.i_selector_0.fifo_out[13] top.tb_accumulator.i_accumulator_0.i_selector_0.fifo_out[12] top.tb_accumulator.i_accumulator_0.i_selector_0.fifo_out[11] top.tb_accumulator.i_accumulator_0.i_selector_0.fifo_out[10] top.tb_accumulator.i_accumulator_0.i_selector_0.fifo_out[9] top.tb_accumulator.i_accumulator_0.i_selector_0.fifo_out[8] top.tb_accumulator.i_accumulator_0.i_selector_0.fifo_out[7] top.tb_accumulator.i_accumulator_0.i_selector_0.fifo_out[6] top.tb_accumulator.i_accumulator_0.i_selector_0.fifo_out[5] top.tb_accumulator.i_accumulator_0.i_selector_0.fifo_out[4] top.tb_accumulator.i_accumulator_0.i_selector_0.fifo_out[3] top.tb_accumulator.i_accumulator_0.i_selector_0.fifo_out[2] top.tb_accumulator.i_accumulator_0.i_selector_0.fifo_out[1] top.tb_accumulator.i_accumulator_0.i_selector_0.fifo_out[0]
+@28
+top.tb_accumulator.i_accumulator_0.i_selector_0.fifo_ok
+top.tb_accumulator.i_accumulator_0.i_selector_0.fifo_stall
+top.tb_accumulator.i_accumulator_0.i_selector_0.incomplete
+@22
+#{top.tb_accumulator.i_accumulator_0.i_selector_0.adder_ina[15:0]} top.tb_accumulator.i_accumulator_0.i_selector_0.adder_ina[15] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_ina[14] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_ina[13] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_ina[12] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_ina[11] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_ina[10] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_ina[9] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_ina[8] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_ina[7] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_ina[6] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_ina[5] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_ina[4] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_ina[3] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_ina[2] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_ina[1] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_ina[0]
+#{top.tb_accumulator.i_accumulator_0.i_selector_0.adder_inb[15:0]} top.tb_accumulator.i_accumulator_0.i_selector_0.adder_inb[15] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_inb[14] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_inb[13] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_inb[12] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_inb[11] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_inb[10] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_inb[9] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_inb[8] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_inb[7] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_inb[6] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_inb[5] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_inb[4] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_inb[3] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_inb[2] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_inb[1] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_inb[0]
+#{top.tb_accumulator.i_accumulator_0.i_selector_0.rega[15:0]} top.tb_accumulator.i_accumulator_0.i_selector_0.rega[15] top.tb_accumulator.i_accumulator_0.i_selector_0.rega[14] top.tb_accumulator.i_accumulator_0.i_selector_0.rega[13] top.tb_accumulator.i_accumulator_0.i_selector_0.rega[12] top.tb_accumulator.i_accumulator_0.i_selector_0.rega[11] top.tb_accumulator.i_accumulator_0.i_selector_0.rega[10] top.tb_accumulator.i_accumulator_0.i_selector_0.rega[9] top.tb_accumulator.i_accumulator_0.i_selector_0.rega[8] top.tb_accumulator.i_accumulator_0.i_selector_0.rega[7] top.tb_accumulator.i_accumulator_0.i_selector_0.rega[6] top.tb_accumulator.i_accumulator_0.i_selector_0.rega[5] top.tb_accumulator.i_accumulator_0.i_selector_0.rega[4] top.tb_accumulator.i_accumulator_0.i_selector_0.rega[3] top.tb_accumulator.i_accumulator_0.i_selector_0.rega[2] top.tb_accumulator.i_accumulator_0.i_selector_0.rega[1] top.tb_accumulator.i_accumulator_0.i_selector_0.rega[0]
+#{top.tb_accumulator.i_accumulator_0.i_selector_0.regb[15:0]} top.tb_accumulator.i_accumulator_0.i_selector_0.regb[15] top.tb_accumulator.i_accumulator_0.i_selector_0.regb[14] top.tb_accumulator.i_accumulator_0.i_selector_0.regb[13] top.tb_accumulator.i_accumulator_0.i_selector_0.regb[12] top.tb_accumulator.i_accumulator_0.i_selector_0.regb[11] top.tb_accumulator.i_accumulator_0.i_selector_0.regb[10] top.tb_accumulator.i_accumulator_0.i_selector_0.regb[9] top.tb_accumulator.i_accumulator_0.i_selector_0.regb[8] top.tb_accumulator.i_accumulator_0.i_selector_0.regb[7] top.tb_accumulator.i_accumulator_0.i_selector_0.regb[6] top.tb_accumulator.i_accumulator_0.i_selector_0.regb[5] top.tb_accumulator.i_accumulator_0.i_selector_0.regb[4] top.tb_accumulator.i_accumulator_0.i_selector_0.regb[3] top.tb_accumulator.i_accumulator_0.i_selector_0.regb[2] top.tb_accumulator.i_accumulator_0.i_selector_0.regb[1] top.tb_accumulator.i_accumulator_0.i_selector_0.regb[0]
+@800028
+#{top.tb_accumulator.i_accumulator_0.i_selector_0.adder_info[1:0]} top.tb_accumulator.i_accumulator_0.i_selector_0.adder_info[1] top.tb_accumulator.i_accumulator_0.i_selector_0.adder_info[0]
+@28
+top.tb_accumulator.i_accumulator_0.i_selector_0.adder_info[1]
+top.tb_accumulator.i_accumulator_0.i_selector_0.adder_info[0]
+@1001200
+-group_end
+@200
+-
+-
+@c00028
+#{top.tb_accumulator.i_accumulator_0.i_shift5_0.info_in[1:0]} top.tb_accumulator.i_accumulator_0.i_shift5_0.info_in[1] top.tb_accumulator.i_accumulator_0.i_shift5_0.info_in[0]
+@28
+top.tb_accumulator.i_accumulator_0.i_shift5_0.info_in[1]
+top.tb_accumulator.i_accumulator_0.i_shift5_0.info_in[0]
+@1401200
+-group_end
+@c00028
+#{top.tb_accumulator.i_accumulator_0.i_shift5_0.info_out[1:0]} top.tb_accumulator.i_accumulator_0.i_shift5_0.info_out[1] top.tb_accumulator.i_accumulator_0.i_shift5_0.info_out[0]
+@28
+top.tb_accumulator.i_accumulator_0.i_shift5_0.info_out[1]
+top.tb_accumulator.i_accumulator_0.i_shift5_0.info_out[0]
+@1401200
+-group_end
+@28
+top.tb_accumulator.i_accumulator_0.ored
+@200
+-
+@22
+#{top.tb_accumulator.i_accumulator_0.dout[15:0]} top.tb_accumulator.i_accumulator_0.dout[15] top.tb_accumulator.i_accumulator_0.dout[14] top.tb_accumulator.i_accumulator_0.dout[13] top.tb_accumulator.i_accumulator_0.dout[12] top.tb_accumulator.i_accumulator_0.dout[11] top.tb_accumulator.i_accumulator_0.dout[10] top.tb_accumulator.i_accumulator_0.dout[9] top.tb_accumulator.i_accumulator_0.dout[8] top.tb_accumulator.i_accumulator_0.dout[7] top.tb_accumulator.i_accumulator_0.dout[6] top.tb_accumulator.i_accumulator_0.dout[5] top.tb_accumulator.i_accumulator_0.dout[4] top.tb_accumulator.i_accumulator_0.dout[3] top.tb_accumulator.i_accumulator_0.dout[2] top.tb_accumulator.i_accumulator_0.dout[1] top.tb_accumulator.i_accumulator_0.dout[0]
+@28
+top.tb_accumulator.i_accumulator_0.end_flag
+top.tb_accumulator.i_accumulator_0.fifo_empty
+top.tb_accumulator.dout_ok
+[pattern_trace] 1
+[pattern_trace] 0

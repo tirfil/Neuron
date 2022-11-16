@@ -1,0 +1,48 @@
+[*]
+[*] GTKWave Analyzer v3.3.68 (w)1999-2016 BSI
+[*] Mon Sep 27 12:43:34 2021
+[*]
+[dumpfile] "C:\MyDesigns\Perso\select\SIM\tb_fifo_out_adaptor.ghw"
+[dumpfile_mtime] "Mon Sep 27 12:39:53 2021"
+[dumpfile_size] 7048
+[savefile] "C:\MyDesigns\Perso\select\SIM\wave.gtkw"
+[timestart] 2018400000
+[size] 1876 600
+[pos] -167 -47
+*-26.651407 2720000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_fifo_out_adaptor.
+[treeopen] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.
+[sst_width] 231
+[signals_width] 209
+[sst_expanded] 1
+[sst_vpaned_height] 323
+@28
+top.tb_fifo_out_adaptor.mclk
+top.tb_fifo_out_adaptor.nrst
+top.tb_fifo_out_adaptor.fifo_write
+@22
+#{top.tb_fifo_out_adaptor.fifo_in[15:0]} top.tb_fifo_out_adaptor.fifo_in[15] top.tb_fifo_out_adaptor.fifo_in[14] top.tb_fifo_out_adaptor.fifo_in[13] top.tb_fifo_out_adaptor.fifo_in[12] top.tb_fifo_out_adaptor.fifo_in[11] top.tb_fifo_out_adaptor.fifo_in[10] top.tb_fifo_out_adaptor.fifo_in[9] top.tb_fifo_out_adaptor.fifo_in[8] top.tb_fifo_out_adaptor.fifo_in[7] top.tb_fifo_out_adaptor.fifo_in[6] top.tb_fifo_out_adaptor.fifo_in[5] top.tb_fifo_out_adaptor.fifo_in[4] top.tb_fifo_out_adaptor.fifo_in[3] top.tb_fifo_out_adaptor.fifo_in[2] top.tb_fifo_out_adaptor.fifo_in[1] top.tb_fifo_out_adaptor.fifo_in[0]
+@28
+top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.fifo_empty
+@22
+#{top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.fifo_out[15:0]} top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.fifo_out[15] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.fifo_out[14] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.fifo_out[13] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.fifo_out[12] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.fifo_out[11] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.fifo_out[10] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.fifo_out[9] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.fifo_out[8] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.fifo_out[7] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.fifo_out[6] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.fifo_out[5] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.fifo_out[4] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.fifo_out[3] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.fifo_out[2] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.fifo_out[1] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.fifo_out[0]
+@28
+top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.fifo_read
+top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.data_valid
+@29
+top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.stall
+@22
+#{top.tb_fifo_out_adaptor.data_out[15:0]} top.tb_fifo_out_adaptor.data_out[15] top.tb_fifo_out_adaptor.data_out[14] top.tb_fifo_out_adaptor.data_out[13] top.tb_fifo_out_adaptor.data_out[12] top.tb_fifo_out_adaptor.data_out[11] top.tb_fifo_out_adaptor.data_out[10] top.tb_fifo_out_adaptor.data_out[9] top.tb_fifo_out_adaptor.data_out[8] top.tb_fifo_out_adaptor.data_out[7] top.tb_fifo_out_adaptor.data_out[6] top.tb_fifo_out_adaptor.data_out[5] top.tb_fifo_out_adaptor.data_out[4] top.tb_fifo_out_adaptor.data_out[3] top.tb_fifo_out_adaptor.data_out[2] top.tb_fifo_out_adaptor.data_out[1] top.tb_fifo_out_adaptor.data_out[0]
+@200
+-
+-
+@22
+#{top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.reg[15:0]} top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.reg[15] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.reg[14] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.reg[13] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.reg[12] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.reg[11] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.reg[10] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.reg[9] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.reg[8] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.reg[7] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.reg[6] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.reg[5] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.reg[4] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.reg[3] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.reg[2] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.reg[1] top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.reg[0]
+@28
+top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.stall_pulse
+top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.stall_q
+top.tb_fifo_out_adaptor.i_fifo_out_adaptor_0.loaded
+top.tb_fifo_out_adaptor.i_fifo_control_0.fifo_full
+[pattern_trace] 1
+[pattern_trace] 0

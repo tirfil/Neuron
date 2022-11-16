@@ -1,0 +1,10 @@
+entity fifo_out_adaptor
+clock MCLK
+reset nRST
+in FIFO_OUT 16
+in FIFO_EMPTY
+out FIFO_READ
+in STALL
+out DATA_OUT 16
+out DATA_VALID
+architecture rtl

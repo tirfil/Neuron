@@ -1,0 +1,44 @@
+[*]
+[*] GTKWave Analyzer v3.3.68 (w)1999-2016 BSI
+[*] Mon Oct 11 08:40:18 2021
+[*]
+[dumpfile] "C:\MyDesigns\Perso\select\SIM\tb_neuron.ghw"
+[dumpfile_mtime] "Mon Oct 11 08:34:41 2021"
+[dumpfile_size] 10334
+[savefile] "C:\MyDesigns\Perso\select\SIM\tb_neuron.gtkw"
+[timestart] 0
+[size] 1920 1017
+[pos] -35 -35
+*-27.461199 1380000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_neuron.
+[treeopen] top.tb_neuron.i_neuron_0.
+[treeopen] top.tb_neuron.i_neuron_0.i_shift4_0.
+[sst_width] 197
+[signals_width] 134
+[sst_expanded] 1
+[sst_vpaned_height] 323
+@29
+top.tb_neuron.mclk
+@28
+top.tb_neuron.nrst
+top.tb_neuron.dout_ok
+top.tb_neuron.i_neuron_0.ena
+top.tb_neuron.last
+@22
+#{top.tb_neuron.din[15:0]} top.tb_neuron.din[15] top.tb_neuron.din[14] top.tb_neuron.din[13] top.tb_neuron.din[12] top.tb_neuron.din[11] top.tb_neuron.din[10] top.tb_neuron.din[9] top.tb_neuron.din[8] top.tb_neuron.din[7] top.tb_neuron.din[6] top.tb_neuron.din[5] top.tb_neuron.din[4] top.tb_neuron.din[3] top.tb_neuron.din[2] top.tb_neuron.din[1] top.tb_neuron.din[0]
+#{top.tb_neuron.coef[15:0]} top.tb_neuron.coef[15] top.tb_neuron.coef[14] top.tb_neuron.coef[13] top.tb_neuron.coef[12] top.tb_neuron.coef[11] top.tb_neuron.coef[10] top.tb_neuron.coef[9] top.tb_neuron.coef[8] top.tb_neuron.coef[7] top.tb_neuron.coef[6] top.tb_neuron.coef[5] top.tb_neuron.coef[4] top.tb_neuron.coef[3] top.tb_neuron.coef[2] top.tb_neuron.coef[1] top.tb_neuron.coef[0]
+#{top.tb_neuron.dout[15:0]} top.tb_neuron.dout[15] top.tb_neuron.dout[14] top.tb_neuron.dout[13] top.tb_neuron.dout[12] top.tb_neuron.dout[11] top.tb_neuron.dout[10] top.tb_neuron.dout[9] top.tb_neuron.dout[8] top.tb_neuron.dout[7] top.tb_neuron.dout[6] top.tb_neuron.dout[5] top.tb_neuron.dout[4] top.tb_neuron.dout[3] top.tb_neuron.dout[2] top.tb_neuron.dout[1] top.tb_neuron.dout[0]
+@200
+-
+@22
+#{top.tb_neuron.i_neuron_0.i_fp16multppl_0.out0[15:0]} top.tb_neuron.i_neuron_0.i_fp16multppl_0.out0[15] top.tb_neuron.i_neuron_0.i_fp16multppl_0.out0[14] top.tb_neuron.i_neuron_0.i_fp16multppl_0.out0[13] top.tb_neuron.i_neuron_0.i_fp16multppl_0.out0[12] top.tb_neuron.i_neuron_0.i_fp16multppl_0.out0[11] top.tb_neuron.i_neuron_0.i_fp16multppl_0.out0[10] top.tb_neuron.i_neuron_0.i_fp16multppl_0.out0[9] top.tb_neuron.i_neuron_0.i_fp16multppl_0.out0[8] top.tb_neuron.i_neuron_0.i_fp16multppl_0.out0[7] top.tb_neuron.i_neuron_0.i_fp16multppl_0.out0[6] top.tb_neuron.i_neuron_0.i_fp16multppl_0.out0[5] top.tb_neuron.i_neuron_0.i_fp16multppl_0.out0[4] top.tb_neuron.i_neuron_0.i_fp16multppl_0.out0[3] top.tb_neuron.i_neuron_0.i_fp16multppl_0.out0[2] top.tb_neuron.i_neuron_0.i_fp16multppl_0.out0[1] top.tb_neuron.i_neuron_0.i_fp16multppl_0.out0[0]
+@800028
+#{top.tb_neuron.i_neuron_0.i_shift4_0.info_out[1:0]} top.tb_neuron.i_neuron_0.i_shift4_0.info_out[1] top.tb_neuron.i_neuron_0.i_shift4_0.info_out[0]
+@28
+top.tb_neuron.i_neuron_0.i_shift4_0.info_out[1]
+top.tb_neuron.i_neuron_0.i_shift4_0.info_out[0]
+@1001200
+-group_end
+[pattern_trace] 1
+[pattern_trace] 0

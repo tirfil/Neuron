@@ -1,0 +1,14 @@
+entity selector
+clock MCLK
+reset nRST
+in SRST
+in DATA_IN 16
+in DATA_INFO 2
+in FIFO_OUT 16
+in FIFO_OK
+out FIFO_STALL
+out ADDER_INFO 2
+out ADDER_INA 16
+out ADDER_INB 16
+out END_FLAG 
+architecture rtl

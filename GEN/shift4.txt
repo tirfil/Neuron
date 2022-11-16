@@ -1,0 +1,6 @@
+entity shift4
+clock MCLK
+reset nRST
+in INFO_IN 2
+out INFO_OUT 2
+architecture rtl

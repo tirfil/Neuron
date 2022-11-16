@@ -1,0 +1,9 @@
+entity accumulator
+clock MCLK
+reset nRST
+in SRST
+in DIN 16
+in INFO 2
+out DOUT 16
+out DOUT_OK
+architecture rtl
